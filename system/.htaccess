@@ -2,5 +2,13 @@
     Require all denied
 </IfModule>
 <IfModule !authz_core_module>
+<<<<<<< HEAD
     Deny from all
+=======
+<<<<<<< HEAD
+	Deny from all
+=======
+    Deny from all
+>>>>>>> 2c6c2ef (- [CodeIgniter 3.1.9 + Docker]: Form and Validation handler)
+>>>>>>> a9320b5 (- [CodeIgniter 3.1.9 + Docker]: Form and Validation handler)
 </IfModule>
